@@ -36,8 +36,8 @@ Run the automatic evaluation:
 Evaluate the results.
 
 To try the solution on another dataset:
-    - change the path to datasets in your_implementation.py, row 40
-    - change the path to datasets when calling python evaluate_main.py data/SOME_OTHER_DATASET/labels.csv
+- change the path to datasets in your_implementation.py, row 40
+- change the path to datasets when calling python evaluate_main.py data/SOME_OTHER_DATASET/labels.csv
 
 ## How It Works
 Emoji Detection:
@@ -56,7 +56,7 @@ Picture: <image_name>
 Emoji: <emoji_type> Coordinates: (<x>, <y>)
 ```
 
-Error Handling
+## Error Handling
 The program skips images that are missing or cannot be processed.
 Outputs detailed error messages for debugging.
 
