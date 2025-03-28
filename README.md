@@ -1,3 +1,4 @@
+![Digiteq Logo](https://www.savs.cz/image-cache/db-public/images/3331/image/digiteq-logo-rgb.jpg_1000x259.jpg?ts=1720481469)
 # Digiteq Automotive Python Hackathon
 
 ## Overview
